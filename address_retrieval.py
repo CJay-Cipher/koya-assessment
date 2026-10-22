@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "e5288d1bd4471718e266d537b0bff738"
+API_KEY = "YOUR_API_KEY_HERE"
 
 def get_address(lat, lng):
     url = "https://api.apilayer.net/positionstack/v1/reverse"
